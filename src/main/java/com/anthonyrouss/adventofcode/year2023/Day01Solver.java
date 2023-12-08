@@ -1,6 +1,6 @@
-package com.anthonyrouss.year2023;
+package com.anthonyrouss.adventofcode.year2023;
 
-import com.anthonyrouss.common.DaySolver;
+import com.anthonyrouss.adventofcode.common.DaySolver;
 
 public class Day01Solver implements DaySolver {
 

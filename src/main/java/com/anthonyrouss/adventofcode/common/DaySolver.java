@@ -1,4 +1,4 @@
-package com.anthonyrouss.common;
+package com.anthonyrouss.adventofcode.common;
 
 public interface DaySolver {
     int solvePartOne();
